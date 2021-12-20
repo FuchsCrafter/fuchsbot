@@ -5,6 +5,8 @@
 *1. Fuchsbot* *2. Gaming Time*
 *THESE BOTS ARE FURTHER CALLED "FUCHSBOT" IN THIS DOCUMENT.*
 
+*IMPORTANT NOTICE III: IF YOU AE VIEWING THIS DOCUMENT ON THE HOMEPAGE, IT COULD BE THAT YOU ARE SEEING A OLD VERSION OF THIS DOCUMENT. PLEASE VISIT https://github.com/FuchsCrafter/fuchsbot/blob/1a6ac5b1e87c734de96469ac06f0ea4e874d103e/terms-of-service.md TO MAKE SURE THAT YOU ARE SEEING THE LATEST VERSION OF OUR TERMS OF SERVICE.*
+
 ## INTRODUCTION
 Thank you for using our chatbots ("Fuchsbot")! With the use of our service called "**Fuchsbot**"("We", "Us", "Our"), you agree the Privacy Policy and the Terms of Service ("Terms", "ToS") of us. Our service is based on Discord Inc. and the ToS and Privacy Policy of them. We provide a Robot, that automatically answers questions in a chat that is provided by Discord Inc.. 
 
