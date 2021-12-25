@@ -1,2 +1,2 @@
 # Fuchsbot
-Homepage for my discord bot that will be aviable soon!
+A Discord bot that fills the gap!
