@@ -5,11 +5,14 @@
 *1. Fuchsbot* *2. Gaming Time*
 *THESE BOTS ARE FURTHER CALLED "FUCHSBOT" IN THIS DOCUMENT.*
 
-*IMPORTANT NOTICE III: IF YOU AE VIEWING THIS DOCUMENT ON THE HOMEPAGE, IT COULD BE THAT YOU ARE SEEING A OLD VERSION OF THIS DOCUMENT. PLEASE VISIT https://github.com/FuchsCrafter/fuchsbot/blob/main/terms-of-service.md TO MAKE SURE THAT YOU ARE SEEING THE LATEST VERSION OF OUR TERMS OF SERVICE.*
+*IMPORTANT NOTICE III: IF YOU AE VIEWING THIS DOCUMENT ON THE HOMEPAGE, IT COULD BE THAT YOU ARE SEEING A OLD VERSION OF THIS DOCUMENT. PLEASE VISIT [THIS PAGE](https://github.com/FuchsCrafter/fuchsbot/blob/main/terms-of-service.md) TO MAKE SURE THAT YOU ARE SEEING THE LATEST VERSION OF OUR TERMS OF SERVICE.*
 
+## Introduction
 Fuchsbot (“we,” “our,” or “us”) is committed to protecting your privacy. This Privacy Policy explains how your personal information is collected, used, and disclosed by Fuchsbot.
 
 This Privacy Policy applies to our website, and its associated subdomains (collectively, our “Service”) alongside our application, Fuchsbot. By accessing or using our Service, you signify that you have read, understood, and agree to our collection, storage, use, and disclosure of your personal information as described in this Privacy Policy and our Terms of Service.
+
+We reserve the right to update these Terms, which we may do for reasons that include, but are not limited to, complying with changes to the law or reflecting enhancements to Fuchsbot. Your continued use of the Service after we post modifications will constitute your acceptance of and agreement to those changes. If you object to the changes, your recourse shall be to cease using the Service.
 
 
 ## Definitions and key terms
